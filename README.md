@@ -34,7 +34,7 @@ It follows the Medallion Architecture (Bronze, Silver, Gold) to transform raw da
 3. Build fact and dimension tables in Gold layer
 4. Connect Gold layer to Power BI for visualization
 
----
+---   
 
 ## 📈 Dashboard
 
@@ -44,7 +44,10 @@ The dashboard provides insights such as:
 - Superhost analysis
 - Location-based insights
 
----
+<img src="Dashboard/Dashbord photos/Overview Analysis.png" width="800"/>
+
+<img src="Dashboard/Dashbord photos/Location Analysis.png" width="800"/>
+
 
 ## 🚀 How to Run
 
